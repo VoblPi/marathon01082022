@@ -140,3 +140,7 @@ body {
     background: #CC8B86;
     border: none;
 }
+
+.owner_name {
+    font-weight: 400;
+}
